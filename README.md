@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm leonore</h1>
-<h2 align="center">After having worked for more than ten years in textile (Developer, Designer & Product Manager), I'm now enjoying the digital life as a soon-to-be Front-End Developer ! As you may guess, my favourite part is about styling -- CSS :-)</h2>
+<h4 align="center">After having worked for more than ten years in textile (Developer, Designer & Product Manager), I'm now enjoying the digital life as a soon-to-be Front-End Developer ! As you may guess, my favourite part is about styling -- CSS :-)</h4>
 
 - 🔭 I’m currently working on the future [website] for my design and digital agency (https://github.com/leonore14/slow-website-ok)
 
