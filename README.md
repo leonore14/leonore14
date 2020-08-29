@@ -9,7 +9,7 @@
 
 <br>
 <p>
-- 🔭 I’m currently working on the future website for my design and digital agency .. link coming soon !
+- 👩🏼‍💻  I’m currently working on the future website for my design and digital agency .. link coming soon !
 </p>
 <p>
 - ☀️ I’m currently learning React !! .. and if you want to discover the weekly weather where you are, just click<a href="https://leonore14.github.io/weather-app/" target="blank"> here </a>:-)
