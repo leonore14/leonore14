@@ -36,7 +36,7 @@
 <h4>Don't hesitate to contact me online :</h4>
 
 <br>
-<p align="left"> 
+<p align="left" padding-right="5%"> 
 <a href="www.linkedin.com/in/leonore14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leonore g." height="30" width="30" /></a>
 <a href="https://fb.com/leonore14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="leonore14" height="30" width="30" /></a>
 <a href="https://instagram.com/leonore14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leonore14" height="30" width="30" /></a>
