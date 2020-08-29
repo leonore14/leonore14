@@ -9,7 +9,7 @@
 
 <br>
 <p>
-- 🔭 I’m currently working on the future <a href="https://github.com/leonore14/slow-website-ok" target="blank" text-decoration="none" color="black">website</a> for my design and digital agency
+- 🔭 I’m currently working on the future <a href="https://github.com/leonore14/slow-website-ok" target="blank" text-decoration="none" color="inherit">website</a> for my design and digital agency
 </p>
 <p>
 - 🌱 I’m currently learning **React !!**
