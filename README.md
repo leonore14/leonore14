@@ -9,10 +9,10 @@
 
 <br>
 <p>
-- 🔭 I’m currently working on the future <a href="https://github.com/leonore14/slow-website-ok" target="blank">website</a> for my design and digital agency
+- 🔭 I’m currently working on the future website for my design and digital agency .. link coming soon !
 </p>
 <p>
-- 🌱 I’m currently learning React !!
+- 🌱 I’m currently learning React !! .. and if you want to discover the weekly weather where you are, just click<a href="https://leonore14.github.io/weather-app/" target="blank"> here </a>:-)
 </p>
 <p>
 - ⚡ Fun fact : <a href="https://leonore14.github.io/harry/" target="blank">Harry Styles addict </a>!
