@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm leonore</h1>
-<br>
-<h3>soon-to-be Front-End Developer !</h3>
+<h3 align="center">... soon-to-be Front-End Developer !</h3>
 <br>
 <p>After having worked for more than ten years in textile (as Developer, Designer & Product Manager), I'm now enjoying the digital life.
   I am finishing very soon a training to become a Front-End Developer. As you may guess, my favourite part is about styling -- CSS :-)</p>
