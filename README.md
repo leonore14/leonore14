@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **React !!**
 
 <br>
-<h3>Here are some of my skills !</h3>
+<h5>Here are some of my skills !</h5>
 
 <br>
 <p align="left">
@@ -29,7 +29,7 @@
 </p>
 
 <br>
-<h3>Don't hesitate to contact me online :</h3>
+<h5>Don't hesitate to contact me online :</h5>
 
 <br>
 <p align="left"> 
