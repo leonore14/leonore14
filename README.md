@@ -14,6 +14,9 @@
 <p>
 - 🌱 I’m currently learning React !!
 </p>
+<p>
+- ⚡ Fun fact : <a href="https://leonore14.github.io/harry/" target="blank">Harry Styles addict !</a>
+</p>
 
 <br>
 <h4>Here are some of my skills !</h4>
