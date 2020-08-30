@@ -1,3 +1,6 @@
+![Cover](https://github.com/leonore14/leonore14/blob/master/img/cover1.jpeg)
+
+
 <h1 align="center">Hi 👋, I'm leonore</h1>
 
 <h3 align="center">... soon-to-be Front-End Developer !</h3>
