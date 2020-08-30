@@ -1,6 +1,3 @@
-![Cover](https://github.com/leonore14/leonore14/blob/master/img/cover1.jpeg)
-
-
 <h1 align="center">Hi 👋, I'm leonore</h1>
 
 <h3 align="center">... soon-to-be Front-End Developer !</h3>
@@ -8,7 +5,6 @@
 <br>
 <p>After having worked for more than ten years in textile (as Developer, Designer & Product Manager), I'm now enjoying the digital life !</p>
 <p>I am finishing my training to become a Front-End Developer... It's just a matter of weeks now !</p>
-<p> And as you may guess, my favourite part is about styling -- CSS :-)</p>
 
 <br>
 <p>
