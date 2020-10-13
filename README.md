@@ -18,7 +18,7 @@
 </p>
 
 <br>
-<h4>Here are some of my skills !</h4>
+<h4 align="center">Here are some of my skills !</h4>
 
 <br>
 <p align="center">
