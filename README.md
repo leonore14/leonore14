@@ -30,12 +30,12 @@
 </p>
 
 <br>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonore14&layout=compact&hide=html" alt="leonore14" />
 </p>
 
 <br>
-<h4>Don't hesitate to contact me online :</h4>
+<h4 align="center">Don't hesitate to contact me online :</h4>
 
 <br>
 <p align="center"> 
