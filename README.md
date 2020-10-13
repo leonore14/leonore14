@@ -8,7 +8,7 @@
 
 <br>
 <p>
-👩🏼‍💻   I’m currently working on a website for my dreamed design and digital agency .. link coming soon !
+👩🏼‍💻   I’ve just finished my website for an imaginary design and digital agency :<a href="https://slowcreative.netlify.app" target="blank"> Slōw Creative Studio </a>!
 </p>
 <p>
 ☀️  I’ve been learning React for a few weeks now !! .. and if you want to discover the weekly weather where you are, just click<a href="https://leonore14.github.io/weather-app/" target="blank"> here </a>:-)
