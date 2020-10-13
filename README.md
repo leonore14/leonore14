@@ -21,7 +21,7 @@
 <h4>Here are some of my skills !</h4>
 
 <br>
-<p align="left">
+<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -38,7 +38,7 @@
 <h4>Don't hesitate to contact me online :</h4>
 
 <br>
-<p align="left"> 
+<p align="center"> 
 <a href="www.linkedin.com/in/leonore14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leonore g." height="30" width="30" /></a>
 <a href="https://fb.com/leonore14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="leonore14" height="30" width="30" /></a>
 <a href="https://instagram.com/leonore14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leonore14" height="30" width="30" /></a>
