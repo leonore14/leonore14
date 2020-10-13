@@ -8,7 +8,7 @@
 
 <br>
 <p>
-👩🏼‍💻   I’ve just finished my website for an imaginary design and digital agency : <a href="https://slowcreative.netlify.app" target="blank" text-decoration="none" color="black" >Slōw Creative Studio</a> !
+👩🏼‍💻   I’ve just created a website for an imaginary design and digital agency : <a href="https://slowcreative.netlify.app" target="blank" text-decoration="none" color="black" >Slōw Creative Studio</a> !
 </p>
 <p>
 ☀️  I’ve been learning React for a few weeks now !! .. and if you want to discover the weekly weather where you are, just click <a href="https://leonore14.github.io/weather-app/" target="blank" text-decoration="none" color="black" >here</a> :-)
